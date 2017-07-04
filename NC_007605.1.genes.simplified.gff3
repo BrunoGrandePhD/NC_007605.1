@@ -1,0 +1,368 @@
+##sequence-region chrEBV 1 171823
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=10376
+chrEBV	RefSeq	gene	58	166458	.	+	.	ID=gene0;gene=LMP2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	166103	166458	.	+	0	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	58	272	.	+	1	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	360	458	.	+	2	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	540	788	.	+	2	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	871	951	.	+	2	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	1026	1196	.	+	2	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	1280	1495	.	+	2	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	1574	1680	.	+	2	ID=cds0;Parent=gene0;gene=LMP2;product=terminal protein LMP2A
+chrEBV	RefSeq	CDS	59	272	.	+	0	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	360	458	.	+	2	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	540	788	.	+	2	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	871	951	.	+	2	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	1026	1196	.	+	2	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	1280	1495	.	+	2	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	1574	1680	.	+	2	ID=cds1;Parent=gene0;gene=LMP2;product=terminal protein LMP2B
+chrEBV	RefSeq	CDS	101916	103757	.	+	0	ID=cds2;Parent=gene0;gene=LMP2;product=virion protein BBRF1
+chrEBV	RefSeq	CDS	112650	113585	.	+	0	ID=cds3;Parent=gene0;gene=LMP2;product=BGRF1-BDRF1 protein
+chrEBV	RefSeq	CDS	116927	118063	.	+	0	ID=cds3;Parent=gene0;gene=LMP2;product=BGRF1-BDRF1 protein
+chrEBV	RefSeq	mRNA	79950	82960	.	+	.	ID=rna0;Parent=gene0;gene=LMP2;product=EBNA3A nuclear protein
+chrEBV	RefSeq	exon	79950	80293	.	+	.	ID=id2;Parent=rna0;gene=LMP2;product=EBNA3A nuclear protein
+chrEBV	RefSeq	exon	80382	82960	.	+	.	ID=id3;Parent=rna0;gene=LMP2;product=EBNA3A nuclear protein
+chrEBV	RefSeq	CDS	79955	80293	.	+	0	ID=cds4;Parent=rna0;gene=LMP2;product=EBNA3A nuclear protein
+chrEBV	RefSeq	CDS	80382	82877	.	+	0	ID=cds4;Parent=rna0;gene=LMP2;product=EBNA3A nuclear protein
+chrEBV	RefSeq	exon	58	272	.	+	.	ID=id4;Parent=gene0;exon_number=2;gene=LMP2;number=2
+chrEBV	RefSeq	exon	360	458	.	+	.	ID=id5;Parent=gene0;exon_number=3;gene=LMP2;number=3
+chrEBV	RefSeq	exon	540	788	.	+	.	ID=id6;Parent=gene0;exon_number=4;gene=LMP2;number=4
+chrEBV	RefSeq	exon	871	951	.	+	.	ID=id7;Parent=gene0;exon_number=5;gene=LMP2;number=5
+chrEBV	RefSeq	exon	1026	1196	.	+	.	ID=id8;Parent=gene0;exon_number=6;gene=LMP2;number=6
+chrEBV	RefSeq	exon	1280	1495	.	+	.	ID=id9;Parent=gene0;exon_number=7;gene=LMP2;number=7
+chrEBV	RefSeq	exon	1574	1682	.	+	.	ID=id10;Parent=gene0;exon_number=8;gene=LMP2;number=8
+chrEBV	RefSeq	exon	5408	5856	.	+	.	ID=id11;Parent=gene0;exon_number=9;gene=LMP2;number=9
+chrEBV	RefSeq	exon	11626	11657	.	+	.	ID=id12;Parent=gene0;exon_number=C2;gene=LMP2;number=C2
+chrEBV	RefSeq	gene	1691	5692	.	+	.	ID=gene1;gene=BNRF1;gene_biotype=protein_coding;locus_tag=HHV4_BNRF1
+chrEBV	RefSeq	CDS	1736	5692	.	+	0	ID=cds5;Parent=gene1;gene=BNRF1;product=putative nmembrane antigen p140
+chrEBV	RefSeq	gene	9631	10262	.	+	.	ID=gene2;gene=BCRF1;gene_biotype=protein_coding;locus_tag=HHV4_BCRF1.1
+chrEBV	RefSeq	CDS	9675	10187	.	+	0	ID=cds6;Parent=gene2;gene=BCRF1;product=BCRF1 protein precursor
+chrEBV	RefSeq	gene	11305	11308	.	+	.	ID=gene3;gene=BCR2;gene_biotype=other
+chrEBV	RefSeq	gene	11336	11480	.	+	.	ID=gene4;gene=EBNA;gene_biotype=other
+chrEBV	RefSeq	exon	11336	11480	.	+	.	ID=id71;Parent=gene4;exon_number=C1;gene=EBNA;number=C1
+chrEBV	RefSeq	gene	12541	13692	.	+	.	ID=gene5;gene=BCRF2;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.1;start_range=.,12541
+chrEBV	RefSeq	CDS	12541	13692	.	+	0	ID=cds7;Parent=gene5;gene=BCRF2;product=hypothetical protein BCRF2;start_range=.,12541
+chrEBV	RefSeq	gene	14352	35711	.	+	.	ID=gene6;gene=EBNA-LP;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	14409	14410	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	14559	14619	.	+	1	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	14701	14832	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	17626	17691	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	17773	17904	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	20698	20763	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	20845	20976	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	23770	23835	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	23917	24048	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	26842	26907	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	26989	27120	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	29914	29979	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	30061	30192	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	32986	33051	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	33133	33264	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	35473	35505	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	CDS	35590	35694	.	+	0	ID=cds8;Parent=gene6;gene=EBNA-LP;product=EBNA-LP protein
+chrEBV	RefSeq	exon	14384	14410	.	+	.	ID=id73;Parent=gene6;exon_number=W0;gene=EBNA-LP;number=W0
+chrEBV	RefSeq	exon	14554	14619	.	+	.	ID=id74;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	14559	14619	.	+	.	ID=id75;Parent=gene6;exon_number=W1';gene=EBNA-LP;number=W1'
+chrEBV	RefSeq	exon	14701	14832	.	+	.	ID=id76;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	17626	17691	.	+	.	ID=id77;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	17773	17904	.	+	.	ID=id78;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	20698	20763	.	+	.	ID=id79;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	20845	20976	.	+	.	ID=id80;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	23770	23835	.	+	.	ID=id81;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	23917	24048	.	+	.	ID=id82;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	26842	26907	.	+	.	ID=id83;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	26989	27120	.	+	.	ID=id84;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	29914	29979	.	+	.	ID=id85;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	30061	30192	.	+	.	ID=id86;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	32986	33051	.	+	.	ID=id87;Parent=gene6;exon_number=W1;gene=EBNA-LP;number=W1
+chrEBV	RefSeq	exon	33133	33264	.	+	.	ID=id88;Parent=gene6;exon_number=W2;gene=EBNA-LP;number=W2
+chrEBV	RefSeq	exon	35473	35505	.	+	.	ID=id89;Parent=gene6;exon_number=Y1;gene=EBNA-LP;number=Y1
+chrEBV	RefSeq	exon	35590	35711	.	+	.	ID=id90;Parent=gene6;exon_number=Y2;gene=EBNA-LP;number=Y2
+chrEBV	RefSeq	gene	15613	16764	.	+	.	ID=gene7;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.2;start_range=.,15613
+chrEBV	RefSeq	CDS	15613	16764	.	+	0	ID=cds9;Parent=gene7;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,15613
+chrEBV	RefSeq	gene	18685	19836	.	+	.	ID=gene8;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.3;start_range=.,18685
+chrEBV	RefSeq	CDS	18685	19836	.	+	0	ID=cds10;Parent=gene8;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,18685
+chrEBV	RefSeq	gene	21757	22908	.	+	.	ID=gene9;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.4;start_range=.,21757
+chrEBV	RefSeq	CDS	21757	22908	.	+	0	ID=cds11;Parent=gene9;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,21757
+chrEBV	RefSeq	gene	24829	25980	.	+	.	ID=gene10;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.5;start_range=.,24829
+chrEBV	RefSeq	CDS	24829	25980	.	+	0	ID=cds12;Parent=gene10;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,24829
+chrEBV	RefSeq	gene	27901	29052	.	+	.	ID=gene11;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.6;start_range=.,27901
+chrEBV	RefSeq	CDS	27901	29052	.	+	0	ID=cds13;Parent=gene11;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,27901
+chrEBV	RefSeq	gene	30973	32124	.	+	.	ID=gene12;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.7;start_range=.,30973
+chrEBV	RefSeq	CDS	30973	32124	.	+	0	ID=cds14;Parent=gene12;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,30973
+chrEBV	RefSeq	gene	34045	35196	.	+	.	ID=gene13;gene=BWRF1;gene_biotype=protein_coding;locus_tag=HHV4_BWRF1.8;start_range=.,34045
+chrEBV	RefSeq	CDS	34045	35196	.	+	0	ID=cds15;Parent=gene13;gene=BWRF1;product=hypothetical protein BWRF1;start_range=.,34045
+chrEBV	RefSeq	gene	36098	37739	.	+	.	ID=gene14;gene=EBNA-2;gene_biotype=other
+chrEBV	RefSeq	exon	36098	37739	.	+	.	ID=id113;Parent=gene14;exon_number=YH;gene=EBNA-2;number=YH
+chrEBV	RefSeq	gene	36098	36156	.	+	.	ID=gene15;gene=EBNA-LP;gene_biotype=other
+chrEBV	RefSeq	exon	36098	36156	.	+	.	ID=id114;Parent=gene15;gene=EBNA-LP
+chrEBV	RefSeq	gene	36216	37679	.	+	.	ID=gene16;gene=BYRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	36216	37679	.	+	0	ID=cds16;Parent=gene16;gene=BYRF1;product=EBNA-2 nuclear protein
+chrEBV	RefSeq	gene	37564	37744	.	+	.	ID=gene17;gene=EBNA-LP;gene_biotype=other
+chrEBV	RefSeq	exon	37564	37744	.	+	.	ID=id118;Parent=gene17;gene=EBNA-LP
+chrEBV	RefSeq	gene	38024	40529	.	-	.	ID=gene18;gene=BHLF1;gene_biotype=protein_coding;locus_tag=HHV4_BHLF1
+chrEBV	RefSeq	CDS	38287	40269	.	-	0	ID=cds17;Parent=gene18;gene=BHLF1;product=BHLF1 early reading frame
+chrEBV	RefSeq	gene	41471	41476	.	+	.	ID=gene19;gene=BHF1;gene_biotype=other
+chrEBV	RefSeq	gene	41474	41495	.	+	.	ID=gene20;gene=miBHFR1-1;gene_biotype=miRNA
+chrEBV	RefSeq	exon	41474	41495	.	+	.	ID=id122;Parent=rna1;gene=miBHFR1-1;product=microRNA BHFR1-1
+chrEBV	RefSeq	gene	42088	42663	.	+	.	ID=gene21;gene=BHRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	42088	42663	.	+	0	ID=cds18;Parent=gene21;gene=BHRF1;product=hypothetical protein
+chrEBV	RefSeq	gene	42853	42874	.	+	.	ID=gene22;gene=miBHFR1-2*;gene_biotype=miRNA
+chrEBV	RefSeq	exon	42853	42874	.	+	.	ID=id125;Parent=rna2;gene=miBHFR1-2*;product=microRNA BHFR1-2*
+chrEBV	RefSeq	gene	42888	42910	.	+	.	ID=gene23;gene=miBHFR1-2;gene_biotype=miRNA
+chrEBV	RefSeq	exon	42888	42910	.	+	.	ID=id126;Parent=rna3;gene=miBHFR1-2;product=microRNA BHFR1-2
+chrEBV	RefSeq	gene	42968	42990	.	+	.	ID=gene24;gene=miBHFR1-3;gene_biotype=misc_RNA;gene_synonym=microRNA BHFR1-3
+chrEBV	RefSeq	exon	42968	42990	.	+	.	ID=id127;Parent=rna4;gene=miBHFR1-3
+chrEBV	RefSeq	gene	43230	43235	.	+	.	ID=gene25;gene=BHRF1;gene_biotype=other
+chrEBV	RefSeq	gene	43691	44647	.	-	.	ID=gene26;gene=BFLF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	43691	44647	.	-	0	ID=cds19;Parent=gene26;gene=BFLF2;product=BFLF2 protein
+chrEBV	RefSeq	gene	44660	46280	.	-	.	ID=gene27;gene=BFLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	44660	46237	.	-	0	ID=cds20;Parent=gene27;gene=BFLF1;product=hypothetical protein
+chrEBV	RefSeq	gene	46236	46643	.	+	.	ID=gene28;gene=BFRF1A;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	46236	46643	.	+	0	ID=cds21;Parent=gene28;gene=BFRF1A;product=BFRF1A protein
+chrEBV	RefSeq	gene	46544	46549	.	+	.	ID=gene29;gene=BFLF1;gene_biotype=other
+chrEBV	RefSeq	gene	46603	47613	.	+	.	ID=gene30;gene=BFRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	46603	47613	.	+	0	ID=cds22;Parent=gene30;gene=BFRF1;product=BFRF1 protein
+chrEBV	RefSeq	gene	47520	49295	.	+	.	ID=gene31;gene=BFRF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	47520	49295	.	+	0	ID=cds23;Parent=gene31;gene=BFRF2;product=hypothetical protein
+chrEBV	RefSeq	gene	49056	49786	.	+	.	ID=gene32;gene=BFRF3;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	49219	49749	.	+	0	ID=cds24;Parent=gene32;gene=BFRF3;product=capsid protein VP26
+chrEBV	RefSeq	gene	49775	59904	.	-	.	ID=gene33;gene=BPLF1;gene_biotype=protein_coding;locus_tag=HHV4_BPLF1
+chrEBV	RefSeq	CDS	49790	59239	.	-	0	ID=cds25;Parent=gene33;gene=BPLF1;product=large tegument protein
+chrEBV	RefSeq	gene	55189	55361	.	+	.	ID=gene34;gene=EBNA-1;gene_biotype=other
+chrEBV	RefSeq	exon	55189	55361	.	+	.	ID=id137;Parent=gene34;gene=EBNA-1
+chrEBV	RefSeq	gene	59232	62951	.	-	.	ID=gene35;gene=BOLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	59232	62951	.	-	0	ID=cds26;Parent=gene35;gene=BOLF1;product=capsid assembly protein
+chrEBV	RefSeq	gene	62729	62729	.	+	.	ID=gene36;gene=BORF1;gene_biotype=other
+chrEBV	RefSeq	gene	62950	64044	.	+	.	ID=gene37;gene=BORF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	62950	64044	.	+	0	ID=cds27;Parent=gene37;gene=BORF1;product=putative capsid protein VP19C
+chrEBV	RefSeq	gene	63029	63034	.	-	.	ID=gene38;gene=BOLF1;gene_biotype=other
+chrEBV	RefSeq	gene	63881	63881	.	+	.	ID=gene39;gene=BORF2;gene_biotype=other
+chrEBV	RefSeq	gene	64119	66600	.	+	.	ID=gene40;gene=BORF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	64119	66599	.	+	0	ID=cds28;Parent=gene40;gene=BORF2;product=ribonucleoside-diphosphate reductase large chain
+chrEBV	RefSeq	gene	66516	66521	.	+	.	ID=gene41;gene=BaRF1;gene_biotype=other
+chrEBV	RefSeq	gene	66612	67520	.	+	.	ID=gene42;gene=BaRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	66612	67520	.	+	0	ID=cds29;Parent=gene42;gene=BaRF1;product=ribonucleoside-diphosphate reductase small chain
+chrEBV	RefSeq	gene	67552	67557	.	+	.	ID=gene43;gene=BMRF1;gene_biotype=other
+chrEBV	RefSeq	gene	67611	68825	.	+	.	ID=gene44;gene=BMRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	67611	68825	.	+	0	ID=cds30;Parent=gene44;gene=BMRF1;product=early antigen protein D
+chrEBV	RefSeq	gene	68491	69903	.	+	.	ID=gene45;gene=BMRF2;gene_biotype=protein_coding;locus_tag=HHV4_BMRF2
+chrEBV	RefSeq	CDS	68830	69903	.	+	0	ID=cds31;Parent=gene45;gene=BMRF2;product=BMRF2 protein
+chrEBV	RefSeq	gene	70454	70459	.	-	.	ID=gene46;gene=SM;gene_biotype=other
+chrEBV	RefSeq	gene	70455	72000	.	-	.	ID=gene47;gene=SM%2C spliced BSLF2+BMLF1;gene_biotype=protein_coding;locus_tag=HHV4_BSLF2/BMLF1
+chrEBV	RefSeq	CDS	71940	72000	.	-	0	ID=cds32;Parent=gene47;gene=SM%2C spliced BSLF2+BMLF1;product=ICP27 homolog
+chrEBV	RefSeq	CDS	70455	71833	.	-	2	ID=cds32;Parent=gene47;gene=SM%2C spliced BSLF2+BMLF1;product=ICP27 homolog
+chrEBV	RefSeq	gene	70455	71771	.	-	.	ID=gene48;gene=BMLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	70455	71771	.	-	0	ID=cds33;Parent=gene48;gene=BMLF1;product=BMLF1 protein
+chrEBV	RefSeq	gene	71881	72000	.	-	.	ID=gene49;gene=BSLF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	71881	72000	.	-	0	ID=cds34;Parent=gene49;gene=BSLF2;product=BSLF2 protein
+chrEBV	RefSeq	gene	71969	74593	.	-	.	ID=gene50;gene=BSLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	71969	74593	.	-	0	ID=cds35;Parent=gene50;gene=BSLF1;product=helicase/primase complex protein
+chrEBV	RefSeq	gene	72063	72068	.	-	.	ID=gene51;gene=SM;gene_biotype=other
+chrEBV	RefSeq	gene	74594	75316	.	+	.	ID=gene52;gene=BSRF1;gene_biotype=protein_coding;locus_tag=HHV4_BSRF1
+chrEBV	RefSeq	CDS	74636	75292	.	+	0	ID=cds36;Parent=gene52;gene=BSRF1;product=BSRF1 protein
+chrEBV	RefSeq	gene	75320	75325	.	-	.	ID=gene53;gene=BLL3;gene_biotype=other
+chrEBV	RefSeq	gene	75350	76231	.	-	.	ID=gene54;gene=BLLF3;gene_biotype=protein_coding;locus_tag=HHV4_BLLF3
+chrEBV	RefSeq	CDS	75350	76186	.	-	0	ID=cds37;Parent=gene54;gene=BLLF3;product=deoxyuridine 5'-triphosphate nucleotidohydrolase
+chrEBV	RefSeq	gene	76219	76567	.	+	.	ID=gene55;gene=BLRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	76259	76567	.	+	0	ID=cds38;Parent=gene55;gene=BLRF1;product=putative membrane protein BLRF1
+chrEBV	RefSeq	gene	76575	77125	.	+	.	ID=gene56;gene=BLRF2;gene_biotype=protein_coding;locus_tag=HHV4_BLRF2
+chrEBV	RefSeq	CDS	76637	77125	.	+	0	ID=cds39;Parent=gene56;gene=BLRF2;product=putative BLRF2 protein
+chrEBV	RefSeq	gene	77124	77129	.	+	.	ID=gene57;gene=BLRF1;gene_biotype=other
+chrEBV	RefSeq	gene	77132	77137	.	-	.	ID=gene58;gene=BLLF1;gene_biotype=other
+chrEBV	RefSeq	gene	77142	79865	.	-	.	ID=gene59;gene=BLLF1;gene_biotype=protein_coding;locus_tag=HHV4_BLLF1
+chrEBV	RefSeq	CDS	77142	79865	.	-	0	ID=cds40;Parent=gene59;gene=BLLF1;product=envelope glycoprotein gp350
+chrEBV	RefSeq	gene	77279	77763	.	-	.	ID=gene60;gene=BLLF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	77279	77725	.	-	0	ID=cds41;Parent=gene60;gene=BLLF2;product=putative BLLF2 protein
+chrEBV	RefSeq	gene	77774	78364	.	-	.	ID=gene61;gene=gp220 form of gp350;gene_biotype=other
+chrEBV	RefSeq	gene	79899	79904	.	-	.	ID=gene62;gene=BLLF2;gene_biotype=other
+chrEBV	RefSeq	gene	82933	82938	.	+	.	ID=gene63;gene=EBNA3A;gene_biotype=other
+chrEBV	RefSeq	gene	83065	89502	.	+	.	ID=gene64;gene=EBNA3B;gene_biotype=protein_coding
+chrEBV	RefSeq	mRNA	83065	89502	.	+	.	ID=rna5;Parent=gene64;gene=EBNA3B
+chrEBV	RefSeq	exon	83065	83421	.	+	.	ID=id164;Parent=rna5;gene=EBNA3B
+chrEBV	RefSeq	exon	83500	89502	.	+	.	ID=id165;Parent=rna5;gene=EBNA3B
+chrEBV	RefSeq	CDS	83065	83421	.	+	0	ID=cds42;Parent=rna5;gene=EBNA3B;product=EBNA-3B nuclear protein
+chrEBV	RefSeq	CDS	83500	85959	.	+	0	ID=cds42;Parent=rna5;gene=EBNA3B;product=EBNA-3B nuclear protein
+chrEBV	RefSeq	gene	86035	86481	.	+	.	ID=gene65;gene=BERF3;gene_biotype=other
+chrEBV	RefSeq	gene	86076	89502	.	+	.	ID=gene66;gene=EBNA3C;gene_biotype=protein_coding
+chrEBV	RefSeq	mRNA	86076	89502	.	+	.	ID=rna6;Parent=gene66;gene=EBNA3C
+chrEBV	RefSeq	exon	86076	86442	.	+	.	ID=id170;Parent=rna6;gene=EBNA3C
+chrEBV	RefSeq	exon	86517	89502	.	+	.	ID=id171;Parent=rna6;gene=EBNA3C
+chrEBV	RefSeq	CDS	86083	86442	.	+	0	ID=cds43;Parent=rna6;gene=EBNA3C;product=EBNA3C latent protein
+chrEBV	RefSeq	CDS	86517	89135	.	+	0	ID=cds43;Parent=rna6;gene=EBNA3C;product=EBNA3C latent protein
+chrEBV	RefSeq	gene	86076	86442	.	+	.	ID=gene67;gene=EBNA1 leader sequence;gene_biotype=other
+chrEBV	RefSeq	exon	86076	86442	.	+	.	ID=id177;Parent=gene67;gene=EBNA1 leader sequence
+chrEBV	RefSeq	gene	89157	89872	.	-	.	ID=gene68;gene=BZLF2;gene_biotype=protein_coding;locus_tag=HHV4_BZLF2
+chrEBV	RefSeq	CDS	89157	89828	.	-	0	ID=cds44;Parent=gene68;gene=BZLF2;product=putative BZLF2 protein
+chrEBV	RefSeq	gene	89477	89482	.	+	.	ID=gene69;gene=EBNA-3C;gene_biotype=other
+chrEBV	RefSeq	gene	89838	93893	.	-	.	ID=gene70;gene=BRLF1;gene_biotype=protein_coding;locus_tag=HHV4_BRLF1
+chrEBV	RefSeq	mRNA	89838	93893	.	-	.	ID=rna7;Parent=gene70;gene=BRLF1
+chrEBV	RefSeq	exon	93838	93893	.	-	.	ID=id180;Parent=rna7;gene=BRLF1
+chrEBV	RefSeq	exon	90367	92897	.	-	.	ID=id181;Parent=rna7;gene=BRLF1
+chrEBV	RefSeq	exon	90138	90242	.	-	.	ID=id182;Parent=rna7;gene=BRLF1
+chrEBV	RefSeq	exon	89838	90053	.	-	.	ID=id183;Parent=rna7;gene=BRLF1
+chrEBV	RefSeq	CDS	91078	92895	.	-	0	ID=cds45;Parent=rna7;gene=BRLF1;product=hypothetical protein
+chrEBV	RefSeq	gene	89838	90906	.	-	.	ID=gene71;gene=BZLF1;gene_biotype=protein_coding;locus_tag=HHV4_BZLF1
+chrEBV	RefSeq	mRNA	89838	90906	.	-	.	ID=rna8;Parent=gene71;gene=BZLF1
+chrEBV	RefSeq	exon	90367	90906	.	-	.	ID=id186;Parent=rna8;gene=BZLF1
+chrEBV	RefSeq	exon	90138	90242	.	-	.	ID=id187;Parent=rna8;gene=BZLF1
+chrEBV	RefSeq	exon	89838	90053	.	-	.	ID=id188;Parent=rna8;gene=BZLF1
+chrEBV	RefSeq	CDS	90367	90867	.	-	0	ID=cds46;Parent=rna8;gene=BZLF1;product=hypothetical protein
+chrEBV	RefSeq	CDS	90138	90242	.	-	0	ID=cds46;Parent=rna8;gene=BZLF1;product=hypothetical protein
+chrEBV	RefSeq	CDS	89922	90053	.	-	0	ID=cds46;Parent=rna8;gene=BZLF1;product=hypothetical protein
+chrEBV	RefSeq	gene	90938	90943	.	-	.	ID=gene72;gene=BZLF1;gene_biotype=other
+chrEBV	RefSeq	gene	92638	92897	.	-	.	ID=gene73;gene=RZ fusion;gene_biotype=other
+chrEBV	RefSeq	exon	92638	92897	.	-	.	ID=id190;Parent=gene73;gene=RZ fusion
+chrEBV	RefSeq	gene	92728	93827	.	+	.	ID=gene74;gene=BRRF1;gene_biotype=protein_coding;locus_tag=HHV4_BRRF1
+chrEBV	RefSeq	CDS	92894	93826	.	+	0	ID=cds47;Parent=gene74;gene=BRRF1;product=putative BRRF1 protein
+chrEBV	RefSeq	gene	93920	93925	.	-	.	ID=gene75;gene=BRLF1;gene_biotype=other
+chrEBV	RefSeq	gene	93955	95627	.	+	.	ID=gene76;gene=BRRF2;gene_biotype=protein_coding;locus_tag=HHV4_BRRF2
+chrEBV	RefSeq	CDS	94014	95627	.	+	0	ID=cds48;Parent=gene76;gene=BRRF2;product=putative BRRF2 protein
+chrEBV	RefSeq	gene	95626	95631	.	+	.	ID=gene77;gene=BBRF2;gene_biotype=other
+chrEBV	RefSeq	gene	95662	97587	.	+	.	ID=gene78;gene=BKRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	95662	97587	.	+	0	ID=cds49;Parent=gene78;gene=BKRF1;product=EBNA-1 protein
+chrEBV	RefSeq	gene	97617	97621	.	+	.	ID=gene79;gene=BKRF2;gene_biotype=other
+chrEBV	RefSeq	gene	97649	97654	.	+	.	ID=gene80;gene=EBNA-1;gene_biotype=other
+chrEBV	RefSeq	gene	97670	98083	.	+	.	ID=gene81;gene=BKRF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	97670	98083	.	+	0	ID=cds50;Parent=gene81;gene=BKRF2;product=glycoprotein L precursor
+chrEBV	RefSeq	gene	98065	99436	.	+	.	ID=gene82;gene=BKRF3;gene_biotype=protein_coding;locus_tag=HHV4_BKRF3
+chrEBV	RefSeq	CDS	98065	98832	.	+	0	ID=cds51;Parent=gene82;gene=BKRF3;product=uracil-DNA glycosylase
+chrEBV	RefSeq	gene	98846	99499	.	+	.	ID=gene83;gene=BKRF4;gene_biotype=protein_coding;locus_tag=HHV4_BKRF4
+chrEBV	RefSeq	CDS	98846	99499	.	+	0	ID=cds52;Parent=gene83;gene=BKRF4;product=putative BKRF4 protein
+chrEBV	RefSeq	gene	99537	101971	.	-	.	ID=gene84;gene=BBLF4;gene_biotype=protein_coding;locus_tag=HHV4_BBLF4
+chrEBV	RefSeq	CDS	99542	101971	.	-	0	ID=cds53;Parent=gene84;gene=BBLF4;product=putative helicase
+chrEBV	RefSeq	gene	101588	101593	.	+	.	ID=gene85;gene=BBRF1;gene_biotype=other
+chrEBV	RefSeq	gene	103660	104496	.	+	.	ID=gene86;gene=BBRF2;gene_biotype=protein_coding;locus_tag=HHV4_BBRF2
+chrEBV	RefSeq	CDS	103660	104496	.	+	0	ID=cds54;Parent=gene86;gene=BBRF2;product=BBRF2 protein
+chrEBV	RefSeq	gene	104408	106792	.	-	.	ID=gene87;gene=BBLF2-BBLF3;gene_biotype=protein_coding;locus_tag=HHV4_BBLF2/BBLF3
+chrEBV	RefSeq	CDS	105227	106792	.	-	0	ID=cds55;Parent=gene87;end_range=106792,.;gene=BBLF2-BBLF3;product=putative BBLF3 protein
+chrEBV	RefSeq	CDS	104493	105098	.	-	0	ID=cds55;Parent=gene87;gene=BBLF2-BBLF3;product=putative BBLF3 protein
+chrEBV	RefSeq	gene	104497	104502	.	+	.	ID=gene88;gene=BBRF1;gene_biotype=other
+chrEBV	RefSeq	gene	106693	108075	.	+	.	ID=gene89;gene=BBRF3;gene_biotype=protein_coding;locus_tag=HHV4_BBRF3
+chrEBV	RefSeq	CDS	106849	108066	.	+	0	ID=cds56;Parent=gene89;gene=BBRF3;product=glycoprotein M
+chrEBV	RefSeq	gene	108459	110053	.	-	.	ID=gene90;gene=BGLF5;gene_biotype=protein_coding;locus_tag=HHV4_BGLF5
+chrEBV	RefSeq	CDS	108641	110053	.	-	0	ID=cds57;Parent=gene90;gene=BGLF5;product=alkaline exonuclease
+chrEBV	RefSeq	gene	108459	109043	.	-	.	ID=gene91;gene=BBLF1;gene_biotype=protein_coding;locus_tag=HHV4_BBLF1
+chrEBV	RefSeq	CDS	108459	108686	.	-	0	ID=cds58;Parent=gene91;gene=BBLF1;product=putative protein BBLF1
+chrEBV	RefSeq	gene	108471	108476	.	-	.	ID=gene92;gene=BGLF5;gene_biotype=other
+chrEBV	RefSeq	gene	109038	109043	.	-	.	ID=gene93;gene=BBLF1;gene_biotype=other
+chrEBV	RefSeq	gene	110037	111326	.	-	.	ID=gene94;gene=BGLF4;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	110037	111326	.	-	0	ID=cds59;Parent=gene94;gene=BGLF4;product=BGLF4 protein
+chrEBV	RefSeq	gene	111205	111666	.	-	.	ID=gene95;gene=BGLF3.5;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	111205	111666	.	-	0	ID=cds60;Parent=gene95;gene=BGLF3.5;product=BGLF3.5 protein
+chrEBV	RefSeq	gene	111653	112651	.	-	.	ID=gene96;gene=BGLF3;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	111653	112651	.	-	0	ID=cds61;Parent=gene96;gene=BGLF3;product=BGLF3 protein
+chrEBV	RefSeq	gene	111824	111829	.	-	.	ID=gene97;gene=BGLF4;gene_biotype=other
+chrEBV	RefSeq	gene	112819	112825	.	-	.	ID=gene98;gene=BGLF3;gene_biotype=other
+chrEBV	RefSeq	gene	113196	114949	.	-	.	ID=gene99;gene=BGLF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	113575	114585	.	-	0	ID=cds62;Parent=gene99;gene=BGLF2;product=BGLF2 protein
+chrEBV	RefSeq	gene	114563	116086	.	-	.	ID=gene100;gene=BGLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	114563	116086	.	-	0	ID=cds63;Parent=gene100;gene=BGLF1;product=BGLF1 protein
+chrEBV	RefSeq	gene	116056	116733	.	-	.	ID=gene101;gene=BDLF4;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	116056	116733	.	-	0	ID=cds64;Parent=gene101;gene=BDLF4;product=BDLF4 protein
+chrEBV	RefSeq	gene	116139	116144	.	-	.	ID=gene102;gene=BGLF1;gene_biotype=other
+chrEBV	RefSeq	gene	116761	117091	.	-	.	ID=gene103;gene=BDLF4;gene_biotype=other
+chrEBV	RefSeq	gene	116900	118060	.	+	.	ID=gene104;gene=BDRF1;gene_biotype=other
+chrEBV	RefSeq	gene	118059	118064	.	+	.	ID=gene105;gene=BGRF1-BDRF1;gene_biotype=other
+chrEBV	RefSeq	gene	118066	118816	.	-	.	ID=gene106;gene=BDLF3;gene_biotype=protein_coding;locus_tag=HHV4_BDLF3
+chrEBV	RefSeq	CDS	118074	118778	.	-	0	ID=cds65;Parent=gene106;gene=BDLF3;product=putative membrane antigen gp85
+chrEBV	RefSeq	gene	118839	120188	.	-	.	ID=gene107;gene=BDLF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	118839	120101	.	-	0	ID=cds66;Parent=gene107;gene=BDLF2;product=BDLF2 protein
+chrEBV	RefSeq	gene	120112	121017	.	-	.	ID=gene108;gene=BDLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	120112	121017	.	-	0	ID=cds67;Parent=gene108;gene=BDLF1;product=putative capsid protein vp23
+chrEBV	RefSeq	gene	121019	121024	.	-	.	ID=gene109;gene=BcLF1;gene_biotype=other
+chrEBV	RefSeq	gene	121033	125178	.	-	.	ID=gene110;gene=BcLF1;gene_biotype=protein_coding;locus_tag=HHV4_BcLF1
+chrEBV	RefSeq	CDS	121033	125178	.	-	0	ID=cds68;Parent=gene110;gene=BcLF1;product=major capsid protein
+chrEBV	RefSeq	gene	121059	121098	.	-	.	ID=gene111;gene=BDLF1;gene_biotype=other
+chrEBV	RefSeq	gene	125177	127429	.	+	.	ID=gene112;gene=BcRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	125177	127429	.	+	0	ID=cds69;Parent=gene112;gene=BcRF1;product=BcRF1 protein
+chrEBV	RefSeq	gene	125417	125422	.	-	.	ID=gene113;gene=BcLF1;gene_biotype=other
+chrEBV	RefSeq	gene	127353	128627	.	+	.	ID=gene114;end_range=128627,.;gene=BTRF1;gene_biotype=protein_coding;locus_tag=HHV4_BTRF1;start_range=.,127353
+chrEBV	RefSeq	CDS	127353	128627	.	+	0	ID=cds70;Parent=gene114;end_range=128627,.;gene=BTRF1;product=BTRF1 protein;start_range=.,127353
+chrEBV	RefSeq	gene	128608	131021	.	-	.	ID=gene115;gene=BXLF2;gene_biotype=protein_coding;locus_tag=HHV4_BXLF2
+chrEBV	RefSeq	CDS	128627	130747	.	-	0	ID=cds71;Parent=gene115;gene=BXLF2;product=glycoprotein gp85 precursor
+chrEBV	RefSeq	gene	128681	128686	.	+	.	ID=gene116;gene=BcRF1;gene_biotype=other
+chrEBV	RefSeq	gene	130749	132572	.	-	.	ID=gene117;gene=BXLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	130749	132572	.	-	0	ID=cds72;Parent=gene117;gene=BXLF1;product=thymidine kinase
+chrEBV	RefSeq	gene	132571	133317	.	+	.	ID=gene118;gene=BXRF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	132571	133317	.	+	0	ID=cds73;Parent=gene118;gene=BXRF1;product=BXRF1 protein
+chrEBV	RefSeq	gene	132839	132846	.	-	.	ID=gene119;gene=BXLF1;gene_biotype=other
+chrEBV	RefSeq	gene	133013	134886	.	+	.	ID=gene120;gene=BVRF1;gene_biotype=protein_coding;locus_tag=HHV4_BVRF1
+chrEBV	RefSeq	CDS	133127	134839	.	+	0	ID=cds74;Parent=gene120;gene=BVRF1;product=virion protein BVRF1
+chrEBV	RefSeq	gene	134809	135627	.	-	.	ID=gene121;gene=BVLF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	134809	135627	.	-	0	ID=cds75;Parent=gene121;gene=BVLF1;product=BVLF1
+chrEBV	RefSeq	gene	135432	135436	.	+	.	ID=gene122;gene=BVRF2;gene_biotype=other
+chrEBV	RefSeq	gene	135638	137455	.	+	.	ID=gene123;gene=BVRF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	135638	137455	.	+	0	ID=cds76;Parent=gene123;gene=BVRF2;product=capsid protein P40
+chrEBV	RefSeq	gene	136331	137455	.	+	.	ID=gene124;gene=BdRF1;gene_biotype=protein_coding;locus_tag=HHV4_BdRF1
+chrEBV	RefSeq	CDS	136418	137455	.	+	0	ID=cds77;Parent=gene124;gene=BdRF1;product=scaffold protein
+chrEBV	RefSeq	gene	137464	138282	.	-	.	ID=gene125;gene=BILF2;gene_biotype=protein_coding;locus_tag=HHV4_BILF2
+chrEBV	RefSeq	CDS	137490	138236	.	-	0	ID=cds78;Parent=gene125;gene=BILF2;product=probable membrane glycoprotein
+chrEBV	RefSeq	gene	138352	160531	.	+	.	ID=gene126;gene=RPMS1;gene_biotype=protein_coding;locus_tag=HHV4_RPMS1
+chrEBV	RefSeq	mRNA	138352	160531	.	+	.	ID=rna9;Parent=gene126;gene=RPMS1
+chrEBV	RefSeq	exon	138352	138480	.	+	.	ID=id250;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	exon	149581	149712	.	+	.	ID=id251;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	exon	149923	150077	.	+	.	ID=id252;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	exon	150237	150348	.	+	.	ID=id253;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	exon	155267	156737	.	+	.	ID=id254;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	exon	156846	156928	.	+	.	ID=id255;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	exon	158625	160531	.	+	.	ID=id256;Parent=rna9;gene=RPMS1
+chrEBV	RefSeq	CDS	150323	150348	.	+	0	ID=cds79;Parent=rna9;gene=RPMS1;product=RPMS1 protein
+chrEBV	RefSeq	CDS	155267	155552	.	+	1	ID=cds79;Parent=rna9;gene=RPMS1;product=RPMS1 protein
+chrEBV	RefSeq	exon	139351	139371	.	+	.	ID=id257;Parent=rna10;gene=RPMS1
+chrEBV	RefSeq	gene	139486	139491	.	-	.	ID=gene127;gene=possible start for 2kb RNAs crossing BILF2;gene_biotype=other
+chrEBV	RefSeq	gene	140570	143344	.	-	.	ID=gene128;gene=LF3;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	140570	143344	.	-	0	ID=cds80;Parent=gene128;gene=LF3;product=LF3 protein
+chrEBV	RefSeq	gene	149035	150324	.	-	.	ID=gene129;gene=LF2;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	149035	150324	.	-	0	ID=cds81;Parent=gene129;gene=LF2;product=LF2 protein
+chrEBV	RefSeq	gene	150285	151694	.	-	.	ID=gene130;gene=LF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	150285	151694	.	-	0	ID=cds82;Parent=gene130;gene=LF1;product=LF1 protein
+chrEBV	RefSeq	gene	151703	152641	.	-	.	ID=gene131;gene=BILF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	151703	152641	.	-	0	ID=cds83;Parent=gene131;gene=BILF1;product=membrane protein
+chrEBV	RefSeq	gene	152747	152768	.	+	.	ID=gene132;gene=miBART-2;gene_biotype=misc_RNA;gene_synonym=microRNA BART-2
+chrEBV	RefSeq	exon	152747	152768	.	+	.	ID=id269;Parent=rna11;gene=miBART-2
+chrEBV	RefSeq	gene	152796	152801	.	+	.	ID=gene133;gene=BALF5;gene_biotype=other
+chrEBV	RefSeq	gene	153241	156288	.	-	.	ID=gene134;gene=BALF5;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	153241	156288	.	-	0	ID=cds84;Parent=gene134;gene=BALF5;product=DNA polymerase
+chrEBV	RefSeq	gene	155549	160531	.	+	.	ID=gene135;gene=A73;gene_biotype=protein_coding;locus_tag=HHV4_A73
+chrEBV	RefSeq	mRNA	155549	160531	.	+	.	ID=rna12;Parent=gene135;gene=A73
+chrEBV	RefSeq	exon	155549	156737	.	+	.	ID=id271;Parent=rna12;gene=A73
+chrEBV	RefSeq	exon	156846	156928	.	+	.	ID=id272;Parent=rna12;gene=A73
+chrEBV	RefSeq	exon	158625	158751	.	+	.	ID=id273;Parent=rna12;gene=A73
+chrEBV	RefSeq	exon	159781	160531	.	+	.	ID=id274;Parent=rna12;gene=A73
+chrEBV	RefSeq	CDS	156652	156737	.	+	0	ID=cds85;Parent=rna12;gene=A73;product=A73 protein
+chrEBV	RefSeq	CDS	156846	156928	.	+	1	ID=cds85;Parent=rna12;gene=A73;product=A73 protein
+chrEBV	RefSeq	CDS	158625	158751	.	+	2	ID=cds85;Parent=rna12;gene=A73;product=A73 protein
+chrEBV	RefSeq	CDS	159781	159865	.	+	1	ID=cds85;Parent=rna12;gene=A73;product=A73 protein
+chrEBV	RefSeq	gene	156244	158912	.	-	.	ID=gene136;gene=BALF4;gene_biotype=protein_coding;locus_tag=HHV4_BALF4
+chrEBV	RefSeq	CDS	156291	158864	.	-	0	ID=cds86;Parent=gene136;gene=BALF4;product=glycoprotein gp110 precursor
+chrEBV	RefSeq	gene	158851	161220	.	-	.	ID=gene137;end_range=161220,.;gene=BALF3;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	158851	161220	.	-	0	ID=cds87;Parent=gene137;end_range=161220,.;gene=BALF3;product=BALF3 protein
+chrEBV	RefSeq	gene	159121	160536	.	+	.	ID=gene138;gene=BARF0;gene_biotype=protein_coding;locus_tag=HHV4_BARF0;start_range=.,159121
+chrEBV	RefSeq	CDS	159121	160536	.	+	0	ID=cds88;Parent=gene138;gene=BARF0;product=putative BARF0 protein;start_range=.,159121
+chrEBV	RefSeq	gene	160508	160513	.	+	.	ID=gene139;gene=RPMS1 and A73 RNAs;gene_biotype=other
+chrEBV	RefSeq	gene	160550	164356	.	-	.	ID=gene140;gene=BALF2;gene_biotype=protein_coding;locus_tag=HHV4_BALF2
+chrEBV	RefSeq	CDS	160926	164312	.	-	0	ID=cds89;Parent=gene140;gene=BALF2;product=major DNA-binding protein
+chrEBV	RefSeq	gene	164388	165255	.	-	.	ID=gene141;gene=BALF1;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	164397	165059	.	-	0	ID=cds90;Parent=gene141;gene=BALF1;product=hypothetical BALF1 protein
+chrEBV	RefSeq	gene	164979	164984	.	+	.	ID=gene142;gene=BALF2;gene_biotype=other
+chrEBV	RefSeq	gene	165008	165712	.	+	.	ID=gene143;gene=BARF1;gene_biotype=protein_coding;locus_tag=HHV4_BARF1.2
+chrEBV	RefSeq	CDS	165046	165711	.	+	0	ID=cds91;Parent=gene143;gene=BARF1;product=BARF1 protein
+chrEBV	RefSeq	gene	166011	166458	.	+	.	ID=gene144;gene=LMP2A;gene_biotype=other
+chrEBV	RefSeq	exon	166040	166458	.	+	.	ID=id285;Parent=gene144;exon_number=1;gene=LMP2A;number=1;product=LMP2A RNA
+chrEBV	RefSeq	gene	166461	169055	.	-	.	ID=gene145;gene=LMP1;gene_biotype=protein_coding;locus_tag=HHV4_LMP-1
+chrEBV	RefSeq	CDS	168749	169016	.	-	0	ID=cds92;Parent=gene145;gene=LMP1;product=hypothetical protein
+chrEBV	RefSeq	CDS	168584	168670	.	-	2	ID=cds92;Parent=gene145;gene=LMP1;product=hypothetical protein
+chrEBV	RefSeq	CDS	167702	168507	.	-	2	ID=cds92;Parent=gene145;gene=LMP1;product=hypothetical protein
+chrEBV	RefSeq	exon	166461	168507	.	-	.	ID=id288;Parent=gene145;exon_number=c;gene=LMP1;number=c
+chrEBV	RefSeq	exon	168584	168670	.	-	.	ID=id289;Parent=gene145;exon_number=b;gene=LMP1;number=b
+chrEBV	RefSeq	exon	168749	169055	.	-	.	ID=id290;Parent=gene145;exon_number=a;gene=LMP1;number=a
+chrEBV	RefSeq	gene	166540	166845	.	-	.	ID=gene146;end_range=166845,.;gene=BNLF2b;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	166540	166845	.	-	0	ID=cds93;Parent=gene146;end_range=166845,.;gene=BNLF2b;product=hypothetical BNLF2B protein
+chrEBV	RefSeq	gene	166846	167028	.	-	.	ID=gene147;gene=BNLF2a;gene_biotype=protein_coding
+chrEBV	RefSeq	CDS	166846	167028	.	-	0	ID=cds94;Parent=gene147;gene=BNLF2a;product=hypothetical BNLF2A protein
+chrEBV	RefSeq	gene	167062	167067	.	-	.	ID=gene148;gene=BNLF2a;gene_biotype=other;gene_synonym=BNLFb
+chrEBV	RefSeq	gene	168738	168743	.	-	.	ID=gene149;gene=lytic LMP1;gene_biotype=other
+chrEBV	RefSeq	gene	169083	169088	.	-	.	ID=gene150;gene=LMP1;gene_biotype=other
+chrEBV	RefSeq	gene	169294	169448	.	+	.	ID=gene151;gene=LMP2B;gene_biotype=other
+chrEBV	RefSeq	exon	169294	169448	.	+	.	ID=id299;Parent=gene151;exon_number=1;gene=LMP2B;number=1;product=LMP2B RNA
